@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/name.njbartlett.eclipse.macbadge.feature_1.0.0.qualifier.jar" id="name.njbartlett.eclipse.macbadge.feature" version="1.0.0.qualifier">
+      <category name="name.njbartlett.eclipse.macbadge"/>
+   </feature>
+   <category-def name="name.njbartlett.eclipse.macbadge" label="Workspace Dock Badge for Mac OS X"/>
+</site>

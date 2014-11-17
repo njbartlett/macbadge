@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="name.njbartlett.eclipse.macbadge.feature"
+      label="Workspace Dock Badge for Mac OS X"
+      version="1.0.0.qualifier">
+
+   <description>
+      Workspace Dock Badge for Mac OS X
+   </description>
+
+   <copyright>
+      Placed in the public domain.
+   </copyright>
+
+   <license url="http://sam.zoy.org/wtfpl/COPYING">
+      Licenced under WTFPL v2
+   </license>
+
+   <url>
+      <update url="http://macbadge-updates.s3.amazonaws.com/"/>
+   </url>
+
+   <plugin
+         id="name.njbartlett.eclipse.macbadge"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

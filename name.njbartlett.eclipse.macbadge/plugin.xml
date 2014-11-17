@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.startup">
+      <startup
+            class="name.njbartlett.eclipse.macbadge.Startup"></startup>
+   </extension>
+   <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+            class="name.njbartlett.eclipse.macbadge.PrefPage"
+            id="name.njbartlett.eclipse.macbadge.prefPage"
+            name="Mac OS X Dock Badge">
+      </page>
+   </extension>
+
+</plugin>
