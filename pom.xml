@@ -41,19 +41,11 @@
 	</prerequisites>
 
 	<properties>
-		<tycho-version>0.24.0</tycho-version>
-
-		<!-- PROJECT SETTINGS -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<!-- PLUGIN VERSIONS 
-		<version.tycho>0.18.1</version.tycho>
-		<version.compiler>2.5.1</version.compiler>
-		<version.resources>2.5</version.resources>
-		-->
+		<tycho-version>0.24.0</tycho-version>
 	</properties>
-
 
 	<modules>
 		<module>name.njbartlett.eclipse.macbadge</module>
@@ -95,36 +87,6 @@
 					<target>1.6</target>
 				</configuration>
 			</plugin>
-
-			<!--
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>${version.compiler}</version>
-				<configuration>
-					<source>1.6</source>
-					<target>1.6</target>
-					<encoding>UTF-8</encoding>
-				</configuration>
-			</plugin>
-
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-resources-plugin</artifactId>
-				<version>${version.resources}</version>
-				<configuration>
-					<encoding>UTF-8</encoding>
-				</configuration>
-			</plugin>
-
-			<plugin>
-				<groupId>org.eclipse.tycho</groupId>
-				<artifactId>tycho-maven-plugin</artifactId>
-				<version>${version.tycho}</version>
-				<extensions>true</extensions>
-			</plugin>
-			  -->
-			<!--  -->
 			<plugin>
 				<groupId>org.eclipse.tycho</groupId>
 				<artifactId>target-platform-configuration</artifactId>
