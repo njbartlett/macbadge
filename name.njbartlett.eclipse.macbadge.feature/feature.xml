@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="name.njbartlett.eclipse.macbadge.feature"
-      label="Workspace Dock Badge for Mac OS X"
+      label="Workspace Badge"
       version="1.0.0.qualifier">
 
    <description>
-      Workspace Dock Badge for Mac OS X
+      Workspace Badge PLugi-in for Mac OS X, Windows, Linux
    </description>
 
    <copyright>

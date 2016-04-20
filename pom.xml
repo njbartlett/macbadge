@@ -8,7 +8,7 @@
 	<artifactId>name.njbartlett.eclipse.macbadge.parent</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Workspace Badge Plug-in for Mac OS (parent)</name>
+	<name>Workspace Badge Plug-in (parent)</name>
 
 	<organization>
 		<name>Neil Bartlett</name>

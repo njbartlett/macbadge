@@ -11,7 +11,7 @@
       <page
             class="name.njbartlett.eclipse.macbadge.PrefPage"
             id="name.njbartlett.eclipse.macbadge.prefPage"
-            name="Mac OS X Dock Badge">
+            name="Workspace Badge">
       </page>
    </extension>
 

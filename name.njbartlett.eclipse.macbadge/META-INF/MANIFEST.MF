@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Workspace Dock Badge Plug-in for Mac OS X
+Bundle-Name: Workspace Badge Plug-in
 Bundle-SymbolicName: name.njbartlett.eclipse.macbadge;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-RequiredExecutionEnvironment: J2SE-1.5
