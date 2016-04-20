@@ -3,9 +3,9 @@
    <feature url="features/name.njbartlett.eclipse.macbadge.feature_0.0.0.qualifier.jar" id="name.njbartlett.eclipse.macbadge.feature" version="0.0.0">
       <category name="macbadge"/>
    </feature>
-   <category-def name="macbadge" label="Workspace Badge Plug-in for Mac OS">
+   <category-def name="macbadge" label="Workspace Badge Plug-in">
       <description>
-         Workspace Badge Plug-in for Mac OS.
+         Workspace Badge Plug-in (former Workspace Badge Plug-in for Mac OS).
       </description>
    </category-def>
 </site>
